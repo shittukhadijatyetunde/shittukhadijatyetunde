@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Shittukhadijatyetunde
-- 👀 I’m interested in Data Exploration
+- 👀 I’m interested in Data Exploration and Analysis
 - 🌱 I’m currently learning SAS Viya 
-- 💞️ I’m looking to collaborate on Analysis Projects
+- 💞️ I’m looking to collaborate on Data Analysis Projects
 - 📫 How to reach me Shittukdj@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Ability to explore new opportunities
